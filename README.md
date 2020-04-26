@@ -4,7 +4,7 @@
 
 CSS编译器 使用的是 sass 
 
-HTTP请求： 使用的是自己封装的基于axios的一套请求，
+HTTP请求： 使用的是自己封装的基于axios的一套请求，同时基于muse-ui 封装了loading加载，以及页面弹框提示
 
 封装了一个公共对象 BIObj , 上面放了基本上页面所有的公共方法以及公共API
 
@@ -49,8 +49,6 @@ get请求：
 如何运行项目
 
 npm i 
-
-
 npm  run start  
 
 
