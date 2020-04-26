@@ -46,4 +46,11 @@ get请求：
         });
 
 
+如何运行项目
+
+npm i 
+
+
+npm  run start  
+
 
